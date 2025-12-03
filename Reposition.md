@@ -1,0 +1,1 @@
+Simple action that allows the hunter to get closer to a token, or further away from it.

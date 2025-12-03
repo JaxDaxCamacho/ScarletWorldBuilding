@@ -1,0 +1,1 @@
+The only divinity that seems to thrive in the [[Fifth Holy Empire]]. It grew in power ever since the mainland was conquered. It seems there are a lot of people capable of wielding it's bright and incandescent power.

@@ -1,0 +1,4 @@
+The Scarlet Company is a mercenary company that was able to receive the roster rights to the hunter schools, and since the performance of these individuals was so above and beyond what the company had before, they decided to focus on and employ nothing but Hunters from there on out.
+
+They became known as one of the most elite mercenary companies to ever exist, guaranteeing that each of their mercenaries were actual hunter trained at the legendary [[Hunter School]]s. 
+The [[Fifth Holy Empire]] was specially impressed with the reputation that the company had amassed, and as such gave them the millionaire contract of escorting and cleansing the new continent dubbed as the [[Golden Lands]] 

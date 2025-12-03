@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "16e357c4d247c00c",
+    "type": "split",
+    "children": [
+      {
+        "id": "299d8fab6f624db9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e2482004d834f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base Ideia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Base Ideia"
+            }
+          },
+          {
+            "id": "c30d1bc6e58aca57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter Discipline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hunter Discipline"
+            }
+          },
+          {
+            "id": "5669ca6ccef7a65a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hunter"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4eb8af8d56c6e650",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbdaf17bd8cb795e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game World.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game World"
+            }
+          },
+          {
+            "id": "ba761ea4fe60580f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Imperial Blades.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Imperial Blades"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52016aec5daaad55",
+    "type": "split",
+    "children": [
+      {
+        "id": "08d319f4855bab88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "742b714b9d58d5f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e798176f7c3487cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1d83a2ec4d40996f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a93fe5d9090f2f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6d0e7267947f490",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e596c564f2182de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ability Cards.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ability Cards"
+            }
+          },
+          {
+            "id": "376a269fd5a00f6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ability Cards.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ability Cards"
+            }
+          },
+          {
+            "id": "f4a0c765e6c99c5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "60662e3bea063473",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0297e371e0843385",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ability Cards.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ability Cards"
+            }
+          },
+          {
+            "id": "945fd87b9f983b59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hunter School.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hunter School"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bbdaf17bd8cb795e",
+  "lastOpenFiles": [
+    "Hunter.md",
+    "Hunter Abilities.md",
+    "Hunter Cards.md",
+    "Game World.md",
+    "Equipment Cards.md",
+    "Enchantment Cards.md",
+    "Conjuration Cards.md",
+    "Combat.md",
+    "Base Ideia.md",
+    "Armor.md",
+    "Ability Cards.md",
+    "Hunter Discipline.md",
+    "Imperial Blades.md",
+    "School Cards.md",
+    "The Red God.md",
+    "The Scarlet Company.md",
+    "Weapon Attack.md",
+    "Reposition.md",
+    "Reaction.md",
+    "QTEID.md",
+    "Hunter School.md",
+    "Imagery/Badge_warrior.png",
+    "Imagery/Badge_rogue.png",
+    "Imagery/Badge_priest.png",
+    "Imagery/Badge_paladin.png",
+    "Imagery/Badge_necro.png",
+    "Imagery/Badge_mage.png",
+    "Imagery/Badge_hunter.png",
+    "Imagery/Badge_barbarian.png",
+    "Imagery/Badge_assassin.png",
+    "Imagery/Screenshot 2025-12-03 151343.png",
+    "Momentum.md",
+    "Imagery",
+    "().md"
+  ]
+}
