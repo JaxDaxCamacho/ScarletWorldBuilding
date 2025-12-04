@@ -119,6 +119,8 @@ The barghest charges behind it like a living shadow.
 
 background Sewer battle
 
+Hunters have initiative.
+
 Combat begins.
 1x [[Lisboa's Barghest]]
 2x or 4x [[Stray Dog]]

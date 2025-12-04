@@ -6,8 +6,4 @@ First Discipline
 First Discipline Card Allowance
 Second Discipline
 Second Discipline Card Allowance
-Head Armor Bonus
-Body Armor Bonus
-Legs Armor Bonus
-Main Hand Armor Bonus
-Off Hand Armor Bonus
+Armor Value

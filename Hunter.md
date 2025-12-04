@@ -10,6 +10,7 @@ Hunter School
 Proficiency First Discipline
 Proficiency Second Discipline
 HealthState
+Injuries
 Armor
 Weapon Right Hand
 Weapon Left Hand

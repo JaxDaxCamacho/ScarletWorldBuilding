@@ -1,0 +1,1 @@
+Object tokens are tokens that represent interesting objects in the battlefield. This can vary from exploding barrels to dropped weapons. Tokens can be engaged with creatures but they never count for the amount of max engaged tokens on that token.

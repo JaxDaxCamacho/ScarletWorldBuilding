@@ -92,9 +92,9 @@ Option 1> Tell Andrej that the warehouse is clear and that he can go fetch his b
 	100 Crowns.
 	 Unlocks [[Andrej Vasick]] as trader and Quest Giver.
 	 Creates [[Drugs Running Rampant]] Side quest
- Option 2> Dont Tell Andrej that the warehouse is clear and let the Captain know that Andrej was pretty suspicious.[FAME +]
-	 Andrej Vasick is arrested.
+ Option 2> Dont Tell Andrej that the warehouse is clear and let the Captain know that Andrej was pretty suspicious/ or kill him in an encounter.[FAME +]
+	 Andrej Vasick is arrested. (if he's not dead)
 	 The captain thanks you for your service and offers you a [[Lisboa's Guard Blade]] as reward
-	 Andrej Vasick will remember this
+	 Andrej Vasick will remember this (if he's not dead)
   Option 3>Dont Tell either of them.
 	  Get default reward.

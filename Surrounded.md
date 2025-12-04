@@ -1,0 +1,1 @@
+Surrounded is an effect that happens when a token is engaged with 4 **Enemy** Tokens. It becomes more vulnerable (easier to hit) and it can't disengage with a simple relocation action
