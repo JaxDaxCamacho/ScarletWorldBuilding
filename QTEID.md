@@ -2,4 +2,6 @@ Some hero abilities can have degrees of success. Normally this is applied to att
 
 When that happens, instead of a dice roll you can use the QTE minigame to define your level of success. 
 
-The difficulty of the the QTE is subjective to the dificulty of the tests,
+The difficulty of the the QTE is subjective to the dificulty of the tests
+
+Alternatively this could work with a Dice Roll System

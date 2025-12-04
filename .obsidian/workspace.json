@@ -13,16 +13,51 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base Ideia.md",
+                "file": "Hunter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Base Ideia"
+              "title": "Hunter"
             }
           },
           {
-            "id": "c30d1bc6e58aca57",
+            "id": "38e05ca8804cc4ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ferro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ferro"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4eb8af8d56c6e650",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "648b8ef6462a3f2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Territory Dispute.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Territory Dispute"
+            }
+          },
+          {
+            "id": "7ba494e929dec4ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,38 +71,17 @@
             }
           },
           {
-            "id": "5669ca6ccef7a65a",
+            "id": "c3d93422e5787312",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hunter.md",
+                "file": "Hunter Abilities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hunter"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "4eb8af8d56c6e650",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bbdaf17bd8cb795e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game World.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Game World"
+              "title": "Hunter Abilities"
             }
           },
           {
@@ -260,29 +274,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "bbdaf17bd8cb795e",
+  "active": "38e05ca8804cc4ef",
   "lastOpenFiles": [
+    "Fame.md",
+    "Ferro.md",
+    "Campaign/ARRIVAL AT NOVA LISBOA.md",
+    "Equipment/Lisboa's Guard Blade.md",
+    "Base Ideia.md",
+    "Conjuration Cards.md",
     "Hunter.md",
     "Hunter Abilities.md",
-    "Hunter Cards.md",
-    "Game World.md",
+    "Campaign/Sensitive Cargo.md",
+    "Campaign/Territory Dispute.md",
+    "Bestiary/Adult Centipede.md",
+    "Bestiary/Centipede Egg sack.md",
+    "Ability Cards.md",
+    "Armor.md",
+    "Combat.md",
     "Equipment Cards.md",
     "Enchantment Cards.md",
-    "Conjuration Cards.md",
-    "Combat.md",
-    "Base Ideia.md",
-    "Armor.md",
-    "Ability Cards.md",
     "Hunter Discipline.md",
-    "Imperial Blades.md",
-    "School Cards.md",
-    "The Red God.md",
+    "Hunter School.md",
     "The Scarlet Company.md",
     "Weapon Attack.md",
-    "Reposition.md",
-    "Reaction.md",
-    "QTEID.md",
-    "Hunter School.md",
+    "Bestiary/Lisboa's Barghest.md",
+    "Side Quest Givers/Drugs Running Rampant.md",
+    "Equipment",
+    "Side Quest Givers/Andrej Vasick.md",
+    "Bestiary/Pupae Centipede.md",
+    "Main Story.md",
+    "NPCs",
+    "Side Quest Givers",
+    "Bestiary",
+    "Imagery/72c2ce85a7dea6f4ccb79d592d074490.jpg",
+    "Imagery/demonic-creature-big-claws-teeth-600nw-2038906721.webp",
+    "Campaign",
     "Imagery/Badge_warrior.png",
     "Imagery/Badge_rogue.png",
     "Imagery/Badge_priest.png",
@@ -291,10 +317,6 @@
     "Imagery/Badge_mage.png",
     "Imagery/Badge_hunter.png",
     "Imagery/Badge_barbarian.png",
-    "Imagery/Badge_assassin.png",
-    "Imagery/Screenshot 2025-12-03 151343.png",
-    "Momentum.md",
-    "Imagery",
-    "().md"
+    "Imagery"
   ]
 }

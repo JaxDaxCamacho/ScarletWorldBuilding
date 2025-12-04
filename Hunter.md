@@ -15,4 +15,5 @@ Weapon Right Hand
 Weapon Left Hand
 Inventory
 Portrait
+[[Fame]]
 [[Hunter Cards]]

@@ -10,7 +10,7 @@ Minion Fights and Monster Fights.
 
 [[Combat]] is represented by tokens. The tokens is mostly just used to represent distance.
 
-When the Monster attacks the hero needs to also preform a quick action event to reduce or eliminate damage. 
+When the [[Monster]] attacks the hero needs to also preform a quick action event to reduce or eliminate damage. 
 
-The [[Game World]] is a low dark fantasy one that revolves around a group of monster hunters. [[The Scarlet Company]] 
-The player will be able to create his monster hunter by selecting a portrait, a name, a weapon and one or two [[Hunter School]].
+The [[Main Story]] is a low dark fantasy one that revolves around a group of monster hunters. [[The Scarlet Company]] 
+The player will be able to create his monster hunter by selecting a portrait, a name, a weapon and a [[Hunter School]].
