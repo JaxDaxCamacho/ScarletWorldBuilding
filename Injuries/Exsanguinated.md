@@ -1,0 +1,1 @@
+When exsanguinated a hunter falls [[Unconscious]] and need to stabilized within 3 turns or right after the battle to prevent death.

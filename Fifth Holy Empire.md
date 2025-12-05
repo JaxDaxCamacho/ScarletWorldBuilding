@@ -1,0 +1,1 @@
+The Empire that took control of the mainland and is know expanding into the shores of the Golden Land.

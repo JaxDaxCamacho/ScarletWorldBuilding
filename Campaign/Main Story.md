@@ -6,4 +6,4 @@ You, a member of the elite **Scarlet Company**, have been deployed to the newly 
 
 Your mission: **clear threats, learn the land, and uncover why monster activity is increasing inside the city itself.**
 
-1. [[ARRIVAL AT NOVA LISBOA]]
+1. [[Arrival at Nova Lisboa]]
