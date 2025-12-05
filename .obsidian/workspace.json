@@ -11,12 +11,14 @@
             "id": "a94e59298d8a0d2f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "CardLayoutV1.png"
+                "file": "Campaign/Territory Dispute.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "CardLayoutV1"
+              "icon": "lucide-file",
+              "title": "Territory Dispute"
             }
           }
         ]
@@ -215,7 +217,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "742b714b9d58d5f7",
+  "active": "a94e59298d8a0d2f",
   "lastOpenFiles": [
     "Base Ideia.md",
     "CardLayoutV1.png",
