@@ -4,7 +4,7 @@ The Hero has his own set of [[Hunter Abilities]] that on being cast trigger a mi
 
 In Combat there's vague positioning for the monster and hero. As in left ,right and middle. And Melee Range and Distant Range. Distant Range abilities can only be used in Distant Range, Melee only in melee and hybrid in both.
 
-The Hero can hire hirelings that will have a small set of cards.
+The Hero can hire [[NPC]] as hirelings that will have a small set of cards.
 
 Minion Fights and Monster Fights.
 
@@ -13,4 +13,4 @@ Minion Fights and Monster Fights.
 When the [[Enemies]] attacks the hero needs to also preform a quick action event to reduce or eliminate damage. 
 
 The [[Main Story]] is a low dark fantasy one that revolves around a group of monster hunters. [[The Scarlet Company]] 
-The player will be able to create his monster hunter by selecting a portrait, a name, a weapon and a [[Hunter School]].
+The player will be able to create his monster hunter by selecting a portrait, a name, a weapon and a [[Hunter School]].![[CardLayoutV1.png]]

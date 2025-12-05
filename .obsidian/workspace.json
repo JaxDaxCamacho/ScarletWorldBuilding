@@ -8,31 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba761ea4fe60580f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Injuries/Unconscious.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unconscious"
-            }
-          },
-          {
             "id": "a94e59298d8a0d2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Injuries/Medium Injury.md",
-                "mode": "source",
-                "source": false
+                "file": "CardLayoutV1.png"
               },
-              "icon": "lucide-file",
-              "title": "Medium Injury"
+              "icon": "lucide-image",
+              "title": "CardLayoutV1"
             }
           }
         ]
@@ -47,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat.md",
+                "file": "Mechanics/Combat.md",
                 "mode": "source",
                 "source": false
               },
@@ -231,50 +215,52 @@
       "bases:Create new base": false
     }
   },
-  "active": "ba761ea4fe60580f",
+  "active": "742b714b9d58d5f7",
   "lastOpenFiles": [
-    "Injuries/Exsanguinated.md",
+    "Base Ideia.md",
+    "CardLayoutV1.png",
+    "CardTypes/Conjuration Cards.md",
+    "Lore/Hunter School.md",
+    "Lore/The Red God.md",
+    "Lore/The Scarlet Company.md",
+    "Lore/Imperial Blades.md",
+    "Lore/Golden Lands.md",
+    "Lore/Fifth Holy Empire.md",
     "Injuries/Serious Injury.md",
     "Injuries/Unconscious.md",
+    "Imagery/Imperial Blades.png",
+    "Side Quest Givers/Andrej Vasick.md",
+    "Imagery/Tilda.png",
+    "Imagery/Aelvasso.png",
+    "Imagery/Selvokat.png",
+    "Imagery/Portador.png",
+    "Imagery/Rotante.png",
+    "Imagery/Carveiro.png",
+    "Imagery/Ferro.md",
+    "Imagery/Ferro.png",
     "Injuries/Medium Injury.md",
     "Injuries/Light injury.md",
-    "Combat.md",
+    "Injuries/Exsanguinated.md",
+    "NPCs/NPC.md",
+    "CardTypes/School Cards.md",
+    "CardTypes",
+    "Untitled.md",
+    "Mechanics",
+    "Lore",
+    "Mechanics/Surrounded.md",
+    "Mechanics/Combat.md",
     "Injuries",
-    "Base Ideia.md",
-    "Armor.md",
-    "Golden Lands.md",
-    "The Scarlet Company.md",
-    "Weapon Attack.md",
-    "The Red God.md",
-    "Surrounded.md",
-    "School Cards.md",
-    "Reposition.md",
-    "Reaction.md",
-    "QTEID.md",
-    "ObjectTokens.md",
-    "Campaign/Arrival at Nova Lisboa.md",
-    "Campaign/Main Story.md",
-    "Imperial Blades.md",
-    "Hunter School.md",
-    "Hunter Discipline.md",
-    "Hunter Cards.md",
-    "Hunter Abilities.md",
-    "Hunter.md",
+    "Mechanics/Armor.md",
+    "Mechanics/Weapon Attack.md",
+    "Mechanics/Reposition.md",
+    "Mechanics/Reaction.md",
+    "Mechanics/QTEID.md",
     "Equipment",
     "NPCs",
     "Side Quest Givers",
     "Bestiary",
     "Imagery/72c2ce85a7dea6f4ccb79d592d074490.jpg",
-    "Imagery/demonic-creature-big-claws-teeth-600nw-2038906721.webp",
     "Campaign",
-    "Imagery/Badge_warrior.png",
-    "Imagery/Badge_rogue.png",
-    "Imagery/Badge_priest.png",
-    "Imagery/Badge_paladin.png",
-    "Imagery/Badge_necro.png",
-    "Imagery/Badge_mage.png",
-    "Imagery/Badge_hunter.png",
-    "Imagery/Badge_barbarian.png",
     "Imagery"
   ]
 }
