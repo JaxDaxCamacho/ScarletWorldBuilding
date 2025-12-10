@@ -30,7 +30,7 @@ The monster gets injuries as their health points get closer to 0,
 
 **Enemy on Hunter**
 When the enemy attacks the hunter, it's the same initial calculation.
-1d20 + Attack bonus >= Hunter Evasion
+1d20 + Attack bonus (-2 if Ranged) >= Hunter Evasion
 [minDamage - maxDamage] - Hunter Armor = Applied Damage
 Check Enchantment/Effect Triggers
 

@@ -8,7 +8,7 @@ Components:
 Card Name
 Card Description
 Traits
-Equipment Type (Off Weapon, Main Weapon, Helmet, Right Bracer, Left Bracer, Leggings, Chest Piece, Trinket, Consumable)
+Equipment Type (Off Weapon, Main Weapon, Armor, Trinket, Consumable)
 Melee Attack Bonus
 Ranged Attack Bonus
 Conjuration Attack Bonus
