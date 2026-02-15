@@ -2,7 +2,7 @@
 This School pumped skilled soldiers with mutagens and elixirs to create deadly monster hybrids that can serve the empire with the same purpose and honor as any pure human. Their hybrid natures are more often than not pretty visible though.
 Aelvasso Equipment Options:
 1. [[Aelvasso Apex Armor]] (Medium Armor, 1 Consumables, 2 Martial 1 Metamorph)
-2. [[Gravedigger Armor]] (Heavy Armor, 1 Consumables, 2Martial/Metamorph)
+2. [[Gravedigger [[Armor]] (Heavy Armor, 1 Consumables, 2Martial/Metamorph)
 3. [[Sentry Gear]](Light Armor, 3 Consumables, 3 Metamorph)
 4. [[Silver Long blade]] (2 Handed, +1 to Hit, 4-8 to Damage, mellee strike +3 extra damage vs undead and cursed trait)
 5. [[Combat Crossbow]] (2 Handed, +3 to Hit, 3-9 to Damage, mellee strike with -3 damage, ranged strike)

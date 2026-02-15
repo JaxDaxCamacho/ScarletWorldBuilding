@@ -5,8 +5,12 @@ Enemies are compromised of the following components:
 
 Name
 Description
+HP
+Armor
+Evasion
 Art
 TokenFrame
 Size
+Traits
 [[Enemy Abilities]]
 Enemy Behaviour Type

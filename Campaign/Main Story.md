@@ -6,4 +6,8 @@ You, a member of the elite **Scarlet Company**, have been deployed to the newly 
 
 Your mission: **clear threats, learn the land, and uncover why monster activity is increasing inside the city itself.**
 
-1. [[Arrival at Nova Lisboa]]
+1. [[ARRIVAL AT NOVA LISBOA]]
+2. [[Territory Dispute]] — barghest hunt inside the city
+3. [[Sensitive Cargo]] — centipede infestation at the docks
+4. [[Post-Mission Debrief]] — report to the captain, encounter Ferro
+5. [[Drugs Running Rampant]] — (conditional) Andrej's side quest, Ferro confrontation
