@@ -5,6 +5,7 @@ Description: It is not elegant. It is not ceremonial. It is the empire's promise
 **Damage Trait:** [[Slashing]]
 **Attack Bonus:** +3
 **Damage:** 3-4
+**Cost:** 35 Escudos
 
 Slash
 1 AP

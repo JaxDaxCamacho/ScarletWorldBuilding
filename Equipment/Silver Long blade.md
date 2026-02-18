@@ -4,6 +4,7 @@
 **Damage Trait:** [[Slashing]]
 **Attack Bonus:** +1
 **Damage:** 6-12
+**Cost:** 280 Escudos
 
 Slice
 2 AP

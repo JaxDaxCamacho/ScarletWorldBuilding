@@ -4,6 +4,7 @@ The Combat Crossbow is the empire's answer to prey that dares skulk beyond arm's
 **Damage Trait:** [[Piercing]] (Ranged Shot) / [[Blunt]] (Bash)
 **Attack Bonus:** +3
 **Damage:** 3-9
+**Cost:** 180 Escudos
 
 Abilities:
 Ranged Shot

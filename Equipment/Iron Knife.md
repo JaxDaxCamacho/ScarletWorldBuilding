@@ -2,11 +2,12 @@
 
 **Type:** 1 handed
 **Damage Trait:** [[Piercing]]
-**Attack Bonus:** +3
+**Attack Bonus:** +2
 **Damage:** 1-3
-**Cost:** 60 Escudos
+**Cost:** 15 Escudos
 
 Quick Stab
-0 AP
+1 AP
 Attack Attached Enemy
-+3 extra damage vs undead and cursed trait
+
+*A simple iron knife. Functional, reliable, and cheap.*

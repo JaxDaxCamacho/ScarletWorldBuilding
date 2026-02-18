@@ -3,6 +3,7 @@ Description:
 Evasion 11
 Armor 5
 1 Consumable Slot
-Card Slots: 
+Card Slots:
 1 Martial
 1 Invocation
+**Cost:** 850 Escudos

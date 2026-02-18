@@ -3,5 +3,6 @@ Description: It is the heaviest [[Armor]] pattern issued to the School of Aelvas
 Evasion 9
 Armor 5
 1 Consumable Slot
-Card Slots: 
+Card Slots:
 2 Martial/Metamorph
+**Cost:** 1100 Escudos

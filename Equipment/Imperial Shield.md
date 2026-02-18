@@ -1,4 +1,5 @@
 ![[shield_t_08.png]]
-1 handed
-Evasion Bonus +2
-Armor Bonus +3
+**Type:** 1 handed (Off-hand)
+**Evasion Bonus:** +2
+**Armor Bonus:** +3
+**Cost:** 65 Escudos

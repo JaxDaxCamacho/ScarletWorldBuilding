@@ -23,29 +23,60 @@ Each Hunter can specialize in disciplines that determine their available abiliti
 - **Ecclesiastic** - Divine miracles from The Red God
 
 ### Card Types
-- **Ability Cards** - Active abilities with Action Cost, Discipline, Traits, Targets
-- **Equipment Cards** - Weapons, armor, shields, trinkets that grant stats and abilities
+- **Ability Cards** - Active abilities with Level, AP Cost, Traits, Targets
+- **Equipment Cards** - Weapons, armor, shields, trinkets with stats and abilities
 - **School Cards** - Permanent enchantments representing hunter training
 - **Conjuration Cards** - Summoned creatures/objects
 - **Enchantment Cards** - Temporary or permanent buffs/debuffs
 
-### Combat System
-- **Positioning**: Tokens represent distance - Left/Right/Middle positions, Melee/Distant range
-- **Attacks**: Roll 1d20 + Attack Bonus vs Target Evasion
-- **Damage**: [min-max] damage minus Armor = Applied Damage
-- **Hunter Injuries**: Unlike monsters, hunters take injuries when hit:
-  - <5 damage: Light Injury
-  - 5-9 damage: Medium Injury (stat penalties)
-  - 10-19 damage: Serious Injury (life-threatening)
-  - 20+ damage: Death
-- **Reposition**: Spend 1 action point to engage/disengage tokens
+## Combat System
+
+### Attack Resolution (6 Steps)
+1. **Declare Attack** - Select target, confirm ability
+2. **Attack Roll** - `1d20 + Attack Bonus + Modifiers` vs Target Evasion
+3. **Damage Roll** - Roll within weapon/ability [min-max] range, add modifiers
+4. **Armor Reduction** - `Raw Damage - Target Armor = Damage After Armor`
+5. **Apply Resistances** - Immunity (0%), Strong Resistance (50%), Weak Resistance (75%), Vulnerability (150%)
+6. **Apply Final Damage** - Subtract from enemy HP, or determine Hunter injury
+
+### Hunter Injuries
+Unlike enemies with HP, hunters take injuries based on damage received:
+| Damage | Injury |
+|--------|--------|
+| 1-4 | [[Light injury]] |
+| 5-9 | [[Medium Injury]] |
+| 10-19 | [[Serious Injury]] |
+| 20+ | Death |
+
+The specific injury depends on the attack's **Damage Trait** (see [[Injury Traits]]):
+- **Slashing** - Bleeding, mutilations, severed tendons
+- **Piercing** - Deep punctures, organ damage
+- **Blunt** - Broken bones, concussions
+- **Fire/Lightning/Acid/Frost** - Elemental-specific injuries
+
+### Reaction System
+All hunters have **1 Reaction Point** per turn (does not stack). Reactions are used for:
+- **Attack of Opportunity** - When enemy disengages, spend reaction to make a basic main-hand attack
+- **Enchantment Triggers** - Certain enchantments may use reactions
+
+**Attack of Opportunity Rules:**
+- Triggered when engaged enemy declares [[Reposition]] to disengage
+- Uses main-hand weapon stats only (no ability cards)
+- Cannot AoO when [[Surrounded]]
+- Enemy must have Reaction Point available
+
+### Positioning & Status
+- **Reposition** - 1 AP to engage or disengage with another token
+- **Surrounded** - 4+ enemy tokens attached; -4 Evasion, cannot reposition or AoO
+- **Engaged** - Tokens attached in melee range
+- **Distant** - Not engaged with any enemy
 
 ## Directory Structure
 
 | Folder | Purpose |
 |--------|---------|
-| `Mechanics/` | Core game rules (Combat, Hunter, Enemies, Armor, etc.) |
-| `HunterCards/` | Ability cards organized by discipline subfolders |
+| `Mechanics/` | Core game rules (Combat, Hunter, Enemies, Armor, Reaction, Surrounded, Reposition) |
+| `HunterCards/` | Ability cards organized by 6 discipline subfolders |
 | `CardTypes/` | Card type definitions and components |
 | `Bestiary/` | Enemy/monster definitions |
 | `Equipment/` | Weapons and armor items |
@@ -54,14 +85,44 @@ Each Hunter can specialize in disciplines that determine their available abiliti
 | `NPCs/` | Non-player characters |
 | `Lore/` | World lore (Fifth Holy Empire, Golden Lands, The Scarlet Company, The Red God) |
 | `Schools/` | Hunter school backgrounds |
-| `Side Quest Givers/` | Side quest content |
 
 ## Content Conventions
 
-- Card files use Level, Action Point Cost, and ability descriptions
-- Enemies have: Name, Description, Art, TokenFrame, Size, Enemy Abilities, Enemy Behaviour Type
-- Abilities have: Name, Description, Art, Level, Trait, TargetType, Target Distance, Type, Effect, QTEID
-- Links use Obsidian wikilink format: `[[NoteName]]`
+### Card Format (Ability Cards)
+```
+Level: X
+Action Point Cost: X
+**Use Weapon Stats** (if applicable - inherits weapon's damage trait)
+Abilities:
+[Effect description based on target type]
+```
+
+### Equipment Format
+```
+![[image.png]]
+Description: [Flavor text]
+**Type:** 1 handed / 2 handed
+**Damage Trait:** [[Slashing]] / [[Piercing]] / [[Blunt]]
+**Attack Bonus:** +X
+**Damage:** X-Y
+[Basic attack ability]
+```
+
+### Enemy Format
+```
+[Flavor description]
+Art![[image.png]]
+TokenFrame => [Type]
+Size => [Small/Medium/Large/Colossal]
+HP => X
+Armor => X
+Evasion => X
+Enemy Abilities => [Ability1, Ability2...]
+Enemy Behaviour Type => [AI type]
+```
+
+### Wikilinks
+All internal references use Obsidian format: `[[NoteName]]`
 
 ## Lore Context
 

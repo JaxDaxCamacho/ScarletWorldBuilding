@@ -4,5 +4,6 @@ Description: Forged from the blackened carapace of a slain Apex Chimera and lace
 Evasion 14
 Armor 3
 1 Consumable Slot
-Card Slots: 
+Card Slots:
 2 Martial 1 Metamorph
+**Cost:** 1200 Escudos

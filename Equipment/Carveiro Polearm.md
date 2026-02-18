@@ -4,6 +4,7 @@
 **Damage Trait:** [[Piercing]]
 **Attack Bonus:** +2
 **Damage:** 5-9
+**Cost:** 120 Escudos
 
 Poke
 2 AP

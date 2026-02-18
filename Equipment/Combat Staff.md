@@ -4,6 +4,7 @@
 **Damage Trait:** [[Blunt]]
 **Attack Bonus:** +5
 **Damage:** 4-6
+**Cost:** 45 Escudos
 
 Rotating Smash
 2 AP

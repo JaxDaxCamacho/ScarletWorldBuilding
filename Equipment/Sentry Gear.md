@@ -4,5 +4,6 @@ Description: Enemies often die without ever seeing the sentry; they only feel th
 Evasion 17
 Armor 0
 3 Consumable Slot
-Card Slots: 
+Card Slots:
 3 Metamorph
+**Cost:** 480 Escudos
