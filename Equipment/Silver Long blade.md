@@ -1,9 +1,9 @@
 ![[sv_t_03.png]]
 
-Description:
-2 handed
-+1 to hit
-6-12 Damage
+**Type:** 2 handed
+**Damage Trait:** [[Slashing]]
+**Attack Bonus:** +1
+**Damage:** 6-12
 
 Slice
 2 AP

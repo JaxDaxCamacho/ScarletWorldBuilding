@@ -1,9 +1,9 @@
 ![[kn_t_09.png]]
 
-Description:
-1 handed
-+3 to hit
-1-3 Damage
+**Type:** 1 handed
+**Damage Trait:** [[Piercing]]
+**Attack Bonus:** +3
+**Damage:** 1-3
 
 Quick Stab
 0 AP

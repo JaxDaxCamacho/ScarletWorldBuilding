@@ -1,8 +1,9 @@
 ![[stf_t_01.png]]
-Description:
-2 handed
-+5 to hit
-4-6 Damage
+
+**Type:** 2 handed
+**Damage Trait:** [[Blunt]]
+**Attack Bonus:** +5
+**Damage:** 4-6
 
 Rotating Smash
 2 AP

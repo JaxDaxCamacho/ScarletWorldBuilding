@@ -1,8 +1,9 @@
 ![[sp_t_03.png]]
-Description:
-2 handed
-+2 to hit
-5-9 Damage
+
+**Type:** 2 handed
+**Damage Trait:** [[Piercing]]
+**Attack Bonus:** +2
+**Damage:** 5-9
 
 Poke
 2 AP
